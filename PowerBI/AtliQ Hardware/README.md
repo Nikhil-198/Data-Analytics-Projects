@@ -5,6 +5,7 @@ AtliQ Hardware, a rapidly growing company in the computer and accessories indust
 
 This project was a comprehensive journey from **data ingestion** to **dashboard creation**, involving **SQL, Power BI Desktop, Excel, DAX, and more**. The goal was to empower stakeholders with actionable insights through interactive and visually appealing reports.
 
+[Live Report Link](https://app.powerbi.com/view?r=eyJrIjoiNzc1YzE4OGYtN2NiOC00NjIwLTg3NDMtZGVjYmQzZTEyOGQxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 ---
 
 ## Tech Stack 💻
