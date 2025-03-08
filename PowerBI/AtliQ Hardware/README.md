@@ -71,6 +71,7 @@ The data was divided into **Dimension Tables** (static data like customers and p
 - **Data Import**: Connected to a **MySQL database** and imported datasets into Power BI.
 - **Snowflake Schema**: Implemented a **snowflake data model** to ensure scalability and performance.
 - **Best Practices**: Followed data modeling best practices to avoid performance bottlenecks.
+
 ![Data Model](https://github.com/Nikhil-198/Data-Analytics-Projects/blob/18cfb5cecf40ea758e10692404654d432333eb3c/PowerBI/AtliQ%20Hardware/Project%20Snapshots/Data%20Model.png)
 ---
 
