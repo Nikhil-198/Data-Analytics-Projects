@@ -80,6 +80,7 @@ The dashboard was designed based on stakeholder requirements, with a focus on us
 - **Home View**: Centralized navigation with buttons for different views (Finance, Sales, Marketing, etc.).
 - **Dynamic Visuals**: Interactive charts, KPI indicators, and conditional formatting.
 - **User-Friendly**: Intuitive design for non-technical users.
+![Home](https://github.com/Nikhil-198/Data-Analytics-Projects/blob/eca32c4977ac9e9ab8f864467550773c9d4e175f/PowerBI/AtliQ%20Hardware/Project%20Snapshots/Home.png)
 
 ---
 
@@ -89,6 +90,17 @@ The dashboard was designed based on stakeholder requirements, with a focus on us
 3. **Marketing View**: Campaign Performance and Customer Insights.
 4. **Supply Chain View**: Inventory Forecasting and Freight Costs.
 5. **Executive View**: High-level overview of key metrics.
+
+
+![Finance View](https://github.com/Nikhil-198/Data-Analytics-Projects/blob/eca32c4977ac9e9ab8f864467550773c9d4e175f/PowerBI/AtliQ%20Hardware/Project%20Snapshots/Finance%20View.png)
+
+![Sales view](https://github.com/Nikhil-198/Data-Analytics-Projects/blob/eca32c4977ac9e9ab8f864467550773c9d4e175f/PowerBI/AtliQ%20Hardware/Project%20Snapshots/Sales%20View.png)
+
+![Marketing view](https://github.com/Nikhil-198/Data-Analytics-Projects/blob/eca32c4977ac9e9ab8f864467550773c9d4e175f/PowerBI/AtliQ%20Hardware/Project%20Snapshots/Marketing%20View.png)
+
+![Supply Chain](https://github.com/Nikhil-198/Data-Analytics-Projects/blob/eca32c4977ac9e9ab8f864467550773c9d4e175f/PowerBI/AtliQ%20Hardware/Project%20Snapshots/Supply%20Chain%20VIew.png)
+
+![Executive View](https://github.com/Nikhil-198/Data-Analytics-Projects/blob/eca32c4977ac9e9ab8f864467550773c9d4e175f/PowerBI/AtliQ%20Hardware/Project%20Snapshots/Executive%20View.png)
 
 ---
 
