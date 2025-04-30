@@ -36,7 +36,7 @@ Analyze **monthly sales trends of individual products** sold to the customer *Cr
 - Filtered data specifically for **Croma** and **FY 2021** using a custom fiscal function.
 - Computed **gross sales totals** per item by multiplying quantity and unit price.
 - Delivered output fields including Month, Product Name, Variant, Quantity Sold, Unit Price, and Gross Sales Value.
-
+![Adhoc_analysis_1](SQL/AtliQ Hardware/Screenshots/Adhoc analysis 1.png)
 ---
 
 ### 2. `Adhoc analysis 2.sql`
