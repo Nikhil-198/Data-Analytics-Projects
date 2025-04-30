@@ -37,7 +37,8 @@ Analyze **monthly sales trends of individual products** sold to the customer *Cr
 - Computed **gross sales totals** per item by multiplying quantity and unit price.
 - Delivered output fields including Month, Product Name, Variant, Quantity Sold, Unit Price, and Gross Sales Value.
 
-![Adhoc_analysis_1]([SQL/AtliQ Hardware/Screenshots/Adhoc analysis 1.png](https://github.com/Nikhil-198/Data-Analytics-Projects/blob/940e19eddaa8a21dae3c8df8384207665d8e25ce/SQL/AtliQ%20Hardware/Screenshots/Adhoc%20analysis%201.png)
+![Adhoc_analysis_1]([SQL/AtliQ Hardware/Screenshots/Adhoc analysis 1.png](https://github.com/Nikhil-198/Data-Analytics-Projects/blob/940e19eddaa8a21dae3c8df8384207665d8e25ce/SQL/AtliQ%20Hardware/Screenshots/Adhoc%20analysis%201.png))
+
 ---
 
 ### 2. `Adhoc analysis 2.sql`
