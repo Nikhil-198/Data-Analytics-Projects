@@ -51,6 +51,8 @@ Generate a monthly sales performance report for a key customer ("Croma") to help
 - Implemented fiscal logic using a custom fiscal year function.
 - Delivered a **month-wise breakdown** for relationship and revenue management.
 
+![Adhoc_analysis_2](https://github.com/Nikhil-198/Data-Analytics-Projects/blob/c424416a35483298d29306d0b63d4900c771fd88/SQL/AtliQ%20Hardware/Screenshots/Adhoc%20analysis%202.png)
+
 ---
 
 ### 3. `Adhoc analysis 3.sql`
@@ -61,6 +63,8 @@ Generate a **yearly gross sales summary** for *Croma India* to track high-level 
 - Grouped total gross sales by **fiscal year** using a custom fiscal year function.
 - Summed `sold_quantity × gross_price` per year.
 - Helped product owners assess Croma’s annual performance trajectory.
+
+![Adhoc_analysis_3](https://github.com/Nikhil-198/Data-Analytics-Projects/blob/c424416a35483298d29306d0b63d4900c771fd88/SQL/AtliQ%20Hardware/Screenshots/Adhoc%20analysis%203.png)
 
 ---
 
@@ -73,6 +77,8 @@ Develop a **stored procedure** to classify a market into a badge tier (Gold or S
 - Used conditional logic to assign **"Gold"** if quantity sold > 5 million, else **"Silver"**.
 - Automatically defaulted the market to **India** if no input was provided.
 - Utilized aggregation and control flow logic within SQL to dynamically return market badges.
+
+![Adhoc_analysis_4](https://github.com/Nikhil-198/Data-Analytics-Projects/blob/c424416a35483298d29306d0b63d4900c771fd88/SQL/AtliQ%20Hardware/Screenshots/Adhoc%20analysis%204.png)
 
 ---
 
@@ -87,6 +93,8 @@ Identify the top contributing customers for FY 2021 and compute their contributi
 - Derived each customer's **sales percentage share** of total FY 2021 sales using **window functions**.
 - Prioritized **insightful customer segmentation** to assist revenue strategy.
 
+![Adhoc_analysis_5](https://github.com/Nikhil-198/Data-Analytics-Projects/blob/c424416a35483298d29306d0b63d4900c771fd88/SQL/AtliQ%20Hardware/Screenshots/Adhoc%20analysis%205.png)
+
 ---
 
 ### 6. `Adhoc analysis 6.sql`
@@ -99,10 +107,11 @@ Analyze the financial performance of customers by region, broken down by their p
 - Enabled region-level performance insights across APAC, EU, LATAM, etc.
 - Ideal for visualizations like pie or stacked bar charts for regional leadership teams.
 
+![Adhoc_analysis_6](https://github.com/Nikhil-198/Data-Analytics-Projects/blob/c424416a35483298d29306d0b63d4900c771fd88/SQL/AtliQ%20Hardware/Screenshots/Adhoc%20analysis%206.png)
+
 ---
 
 ## 🛠️ Tools & Technologies
-- **SQL (PostgreSQL dialect)**
 - MySQL Workbench
 - **Kanban for task tracking**
 - Dataset with **1M+ records**, simulating e-commerce and SaaS product data
