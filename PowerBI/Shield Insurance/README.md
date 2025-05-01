@@ -32,19 +32,19 @@ The final dashboard consists of multiple pages:
 
 - **Home/Overview Page**: Key metrics, revenue split, and customer segmentation
 
-  ![Home_Page](https://example.com/path-to-filter-panel-screenshot.png)
+  ![Home_Page](https://github.com/Nikhil-198/Data-Analytics-Projects/blob/c1274731769b4b27c03642e07e66c4ee75a3d087/PowerBI/Shield%20Insurance/Screenshots/shield_insurance_page-0001.jpg)
 
 - **General View**: City and age group breakdowns with detailed metrics
 
-![General_view](https://example.com/path-to-filter-panel-screenshot.png)
+![General_view](https://github.com/Nikhil-198/Data-Analytics-Projects/blob/c1274731769b4b27c03642e07e66c4ee75a3d087/PowerBI/Shield%20Insurance/Screenshots/shield_insurance_page-0002.jpg)
 
 - **Sales Mode Analysis**: Performance across different sales channels
 
-![Sales_Mode](https://example.com/path-to-filter-panel-screenshot.png)
+![Sales_Mode](https://github.com/Nikhil-198/Data-Analytics-Projects/blob/c1274731769b4b27c03642e07e66c4ee75a3d087/PowerBI/Shield%20Insurance/Screenshots/shield_insurance_page-0003.jpg)
 
 - **Age Group Analysis**: Customer behavior and preferences by age segment
 
-![Age_group](https://example.com/path-to-filter-panel-screenshot.png)
+![Age_group](https://github.com/Nikhil-198/Data-Analytics-Projects/blob/c1274731769b4b27c03642e07e66c4ee75a3d087/PowerBI/Shield%20Insurance/Screenshots/shield_insurance_page-0004.jpg)
 
 
 ### 5. Interactive Features Implemented
@@ -52,7 +52,7 @@ The final dashboard consists of multiple pages:
 - **Dynamic Filter Panel**: Hidden filter panel that slides in when activated
 - **Toggle Switches**: Dynamic chart switching for different visualization options
 
-![Filter Panel Screenshot](https://example.com/path-to-filter-panel-screenshot.png)
+![Filter Panel Screenshot](https://github.com/Nikhil-198/Data-Analytics-Projects/blob/c1274731769b4b27c03642e07e66c4ee75a3d087/PowerBI/Shield%20Insurance/Screenshots/Filter_panel.png)
 
 ### 6. Analysis & Presentation
 - Analyzed dashboard data to extract meaningful business insights
