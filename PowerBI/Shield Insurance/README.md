@@ -31,9 +31,21 @@ Shield Insurance needed a comprehensive analytics solution to track their busine
 The final dashboard consists of multiple pages:
 
 - **Home/Overview Page**: Key metrics, revenue split, and customer segmentation
+
+  ![Home_Page](https://example.com/path-to-filter-panel-screenshot.png)
+
 - **General View**: City and age group breakdowns with detailed metrics
+
+![General_view](https://example.com/path-to-filter-panel-screenshot.png)
+
 - **Sales Mode Analysis**: Performance across different sales channels
+
+![Sales_Mode](https://example.com/path-to-filter-panel-screenshot.png)
+
 - **Age Group Analysis**: Customer behavior and preferences by age segment
+
+![Age_group](https://example.com/path-to-filter-panel-screenshot.png)
+
 
 ### 5. Interactive Features Implemented
 - **Custom Navigation Panel**: Created using navigation switch feature for seamless page transitions
