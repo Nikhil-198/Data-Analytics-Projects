@@ -115,6 +115,4 @@ Throughout this project, I gained valuable skills and experience in:
 For questions or feedback about this project, please reach out:
 
 - **Name**: Nikhil Bhatt
-- **LinkedIn**: www.linkedin.com/in/nikhil198
-
 ---
