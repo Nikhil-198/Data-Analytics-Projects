@@ -1,14 +1,14 @@
 # Shield Insurance Dashboard Documentation
 
-Welcome to the Shield Insurance Dashboard documentation! This guide will help you navigate and use the dashboard effectively, even if you're not technically inclined. We've included visual aids (GIFs) throughout to provide a clear understanding of each feature.
+Welcome to the Shield Insurance Dashboard documentation! This guide will help you navigate and use the dashboard effectively, even if you're not technically inclined. I've included visual aids (GIFs) throughout to provide a clear understanding of each feature.
 
-If you have any questions or feedback after going through this documentation, please don't hesitate to contact us. We're always happy to receive feedback and improve this guide to make the dashboard more accessible for everyone.
+If you have any questions or feedback after going through this documentation, please don't hesitate to contact me. I am always happy to receive feedback and improve this guide to make the dashboard more accessible for everyone.
 
 Let's get started!
 
 ## 1. Home Page Navigation
 
-![Home Page Navigation GIF](placeholder-for-home-page-gif)
+![Home Page Navigation GIF](https://github.com/Nikhil-198/Data-Analytics-Projects/blob/fb77153c54677ad68252dec804ad1bf911ccba94/PowerBI/Shield%20Insurance/Documentation/1%20Home%20Navigation.gif)
 
 The home page serves as your central hub to access different sections of the dashboard:
 
@@ -18,7 +18,7 @@ The home page serves as your central hub to access different sections of the das
 
 ## 2. Graph Switch Feature
 
-![Graph Switch GIF](placeholder-for-graph-switch-gif)
+![Graph Switch GIF](https://github.com/Nikhil-198/Data-Analytics-Projects/blob/fb77153c54677ad68252dec804ad1bf911ccba94/PowerBI/Shield%20Insurance/Documentation/2%20Graph%20Switch.gif)
 
 The dashboard allows you to switch between different data visualizations:
 
@@ -29,7 +29,7 @@ The dashboard allows you to switch between different data visualizations:
 
 ## 3. Filter Button
 
-![Filter Button Image](placeholder-for-filter-button-image)
+![Filter Button Image](https://github.com/Nikhil-198/Data-Analytics-Projects/blob/fb77153c54677ad68252dec804ad1bf911ccba94/PowerBI/Shield%20Insurance/Documentation/3%20Filter%20Button.png)
 
 To access filtering options:
 
@@ -44,7 +44,7 @@ To access filtering options:
 
 ## 4. Using Filters
 
-![Using Filters GIF](placeholder-for-using-filters-gif)
+![Using Filters GIF](https://github.com/Nikhil-198/Data-Analytics-Projects/blob/fb77153c54677ad68252dec804ad1bf911ccba94/PowerBI/Shield%20Insurance/Documentation/4%20filter%20usage.gif)
 
 Filters help you narrow down the data displayed on the dashboard:
 
@@ -57,7 +57,7 @@ Filters help you narrow down the data displayed on the dashboard:
 
 ## 5. Clear Filter Button
 
-![Clear Filter GIF](placeholder-for-clear-filter-gif)
+![Clear Filter GIF](https://github.com/Nikhil-198/Data-Analytics-Projects/blob/fb77153c54677ad68252dec804ad1bf911ccba94/PowerBI/Shield%20Insurance/Documentation/5%20clear%20filter.gif)
 
 To reset all your applied filters at once:
 
@@ -67,7 +67,7 @@ To reset all your applied filters at once:
 
 ## 6. Multi-Cross Selection
 
-![Multi-Cross Selection GIF](placeholder-for-cross-selection-gif)
+![Multi-Cross Selection GIF](https://github.com/Nikhil-198/Data-Analytics-Projects/blob/fb77153c54677ad68252dec804ad1bf911ccba94/PowerBI/Shield%20Insurance/Documentation/6%20Multi%20Cross%20Select.gif)
 
 You can filter the dashboard directly by clicking on items in tables:
 
@@ -78,16 +78,16 @@ You can filter the dashboard directly by clicking on items in tables:
   - Click on each item you want to include in your filter
 - This cross-filtering functionality works with any table in the dashboard
 
-## 7. Graph Filtering & Tooltips
+## 7. Graph Filtering
 
-![Graph Filtering GIF](placeholder-for-graph-filter-gif)
+![Graph Filtering GIF](https://github.com/Nikhil-198/Data-Analytics-Projects/blob/fb77153c54677ad68252dec804ad1bf911ccba94/PowerBI/Shield%20Insurance/Documentation/7%20graph%20selection.gif)
 
 Interact directly with graphs for more information:
 
 - Click on any bar in a graph to cross-filter the dashboard and highlight related information
-- Hover your cursor over a bar to see a tooltip with more detailed information about that specific data point
+- Hover your cursor over a bar to see bit more detailed information about that specific data point
 - This feature helps you quickly understand specific data points without needing to locate them in tables
 
 ---
 
-Thank you for using the Shield Insurance Dashboard! We hope this documentation helps you navigate and utilize all the dashboard features effectively. Remember, if you have any questions or need further assistance, please don't hesitate to reach out!
+Thank you for using the Shield Insurance Dashboard! I hope this documentation helps you navigate and utilize all the dashboard features effectively. Remember, if you have any questions or need further assistance, please don't hesitate to reach out!
