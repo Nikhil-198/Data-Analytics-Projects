@@ -1,1 +1,63 @@
+# 🏨 Atliq Grands Hotel Chain: Hospitality Data Analysis (EDA) Project
 
+This repository showcases an end-to-end **Exploratory Data Analysis (EDA)** project performed as a Data Analyst for **Atliq Grands**, a prominent hotel chain in India. The goal was to provide data-driven insights to help the company address declining revenue and market share against competitors.
+
+## 🎯 Business Objective
+
+The core objective was to perform a deep dive into the raw booking data to identify performance bottlenecks and strategic opportunities. The analysis aimed to answer critical questions for management:
+
+1.  What is the **true occupancy rate** across different cities and room categories?
+2.  Which **booking platforms** (online, direct, third-party) are the most profitable?
+3.  How does performance vary by **time** (weekdays vs. weekends/holidays) and **geography**?
+
+## 📝 Analysis Process
+
+The project followed a robust data analysis workflow, emphasizing data quality and business-focused metrics:
+
+### 1. Data Sourcing & Data Modeling
+* **Integration:** Consolidated booking data from multiple sources, including `fact` tables (bookings) and `dimension` tables (hotels, rooms, dates), using **Pandas `merge()`** to form a single, unified dataset.
+* **Time Series:** Integrated date information to enable analysis of performance across months and day types.
+
+### 2. Data Cleaning & Quality Assurance
+* **Outlier Detection:** Applied the **3-Sigma Rule** (statistical method) to identify and treat extreme outliers in financial data (`revenue_generated` and `revenue_realized`), ensuring that average revenue calculations were accurate and not skewed.
+* **Data Integrity:** Handled missing values through **median imputation** (specifically for hotel capacity) and removed illogical records (e.g., bookings with zero guests or successful bookings exceeding capacity).
+
+### 3. Feature Engineering & KPI Calculation
+* **Core Metric Creation:** Engineered the crucial hospitality KPI: **Occupancy Percentage** ($\frac{\text{Successful Bookings}}{\text{Capacity}}$). This metric served as the foundation for measuring efficiency across all segments.
+
+### 4. Exploratory Data Analysis (EDA)
+* Used **Pandas `groupby()`** and visualization to slice the data and extract performance trends based on city, room class, booking platform, and day type.
+* Incorporated **new, recent data** using `pd.concat()` to ensure the final analysis reflected the most up-to-date business situation.
+
+***
+
+## 🔍 Key Insights Discovered
+
+The analysis provided management with clear segmentation of performance:
+
+1.  **Occupancy Hierarchy:** Identified the **room classes** and **cities** with the highest and lowest average occupancy percentages, guiding capacity planning.
+2.  **Revenue Channel Focus:** Established the revenue contribution of each **booking platform**, highlighting which channels should be prioritized for investment and which need optimization.
+3.  **Temporal Dynamics:** Measured the difference in occupancy rates between **weekday** and **weekend/holiday** periods, providing a basis for dynamic pricing strategies.
+
+## 💡 Key Skills & Learning Outcomes
+
+| Concept / Skill Learned | Value to Project & Business |
+| :--- | :--- |
+| **Data Integrity** | Learned to apply statistical methods (3-Sigma) and logical checks to clean financial and operations data, ensuring reliable insights. |
+| **Feature Engineering** | Successfully created a key performance indicator (Occupancy %) from raw data, which is essential for business performance monitoring. |
+| **Data Modeling in Pandas** | Mastered the use of `pd.merge()` to combine five distinct data sources, solving the initial problem of scattered data. |
+| **Business Translation** | Gained experience in translating a high-level business problem ("losing market share") into specific, executable data analysis steps. |
+
+***
+
+## 🛠️ Technical Implementation
+
+### Technologies Used
+-   **Python**: The primary programming language for the analysis.
+-   **Pandas**: Essential library for data manipulation, cleaning, and aggregation.
+-   **NumPy**: Used for underlying statistical calculations (inferred from outlier treatment).
+-   **Jupyter Notebook**: Used for interactive development and documentation of the analysis flow.
+
+## 📞 Contact
+
+For questions or feedback about this project, please feel free to reach out!
